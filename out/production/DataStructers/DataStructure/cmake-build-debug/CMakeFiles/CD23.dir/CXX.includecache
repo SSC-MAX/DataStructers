@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sc/MyProject/C:C++/DataStructure/应用题/线性表/链表/23.cpp
+LinkList.h
+/Users/sc/MyProject/C:C++/DataStructure/应用题/线性表/链表/LinkList.h
+
+/Users/sc/MyProject/C:C++/DataStructure/应用题/线性表/链表/LinkList.h
+stdio.h
+-
+stdlib.h
+-
+
